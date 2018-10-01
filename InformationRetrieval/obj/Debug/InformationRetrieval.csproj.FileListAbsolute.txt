@@ -1,0 +1,13 @@
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\InformationRetrieval.exe.config
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\InformationRetrieval.exe
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\InformationRetrieval.pdb
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\Lucene.Net.dll
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\Lucene.Net.pdb
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\bin\Debug\Lucene.Net.xml
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.csprojResolveAssemblyReference.cache
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.Form1.resources
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.Properties.Resources.resources
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.csproj.GenerateResource.Cache
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.exe
+C:\Users\s4416582\Downloads\InformationRetrieval\InformationRetrieval\obj\Debug\InformationRetrieval.pdb
